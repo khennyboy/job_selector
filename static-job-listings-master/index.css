@@ -16,6 +16,7 @@ header{
     background-size: cover;
     background-position: center;
     position: relative;
+    background-color: hsl(180, 29%, 50%);
 }
 .search{
     display: block;
